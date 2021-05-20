@@ -1,33 +1,14 @@
 id,value,color
-Original Keyword,
-Original Keyword.Keyword1,
-Original Keyword.Keyword1.Cat1,1,#808080
-Original Keyword.Keyword1.Ca2,0.5,#2E2575
-Original Keyword.Keyword1.Cat2,3,#E54F24
-Original Keyword.Keyword1.Cat3,1.5,#FF9900
-Original Keyword.Keyword1.Cat4,3,#563B7E
-Original Keyword.Keyword1.Cat3,
-Original Keyword.Keyword1.JavaScript World.JavaScript,3,#D6BA33
-Original Keyword.Keyword1.JavaScript World.JQuery,3,#1169AE
-Original Keyword.Keyword1.JavaScript World.D3 js,2.5,#F6854D
-Original Keyword.Keyword2,
-Original Keyword.Keyword2.PHP,1.5,#617CBE
-Original Keyword.Keyword2.C++,1,#0073AD
-Original Keyword.Keyword2.SQL,1.5,#E58E00
-Original Keyword.Keyword2.Java World,
-Original Keyword.Keyword2.Java World.Java SE,3,#EB2C2F
-Original Keyword.Keyword2.Java World.JSP,2,#EB2C2F
-Original Keyword.Keyword2.Java World.Hibernate,2.5,#59666C
-Original Keyword.Keyword2.Java World.Spring MVC / Boot,3,#6DB33F
-Original Keyword.Keyword2.Java World.Spring Data,2.5,#6DB33F
-Original Keyword.Keyword2.Java World.Spring Security,2.5,#5FA134
-Original Keyword.Keyword2.Java World.Thymeleaf,3,#005F0F
-Original Keyword.Keyword3,
-Original Keyword.Keyword3.MySQL,2.5,#00618A
-Original Keyword.Keyword4,
-Original Keyword.Keyword4.VPS & SharedHost,2,#808080
-Original Keyword.Keyword4.Linux,2.5,#040404
-Original Keyword.Keyword4.Apache & Tomcat,2,#CA212F
-Original Keyword.Keyword5,
-Original Keyword.Keyword5.Wordpress,1.5,#00A0D2
-Original Keyword.Keyword5.Drupal,1.5,#0678BE
+ORIGINAL-KEYWORD,
+ORIGINAL-KEYWORD.Keyword1,
+ORIGINAL-KEYWORD.Keyword1.Cat1,16827,#808080
+ORIGINAL-KEYWORD.Keyword1.Cat2,12642,#80A0A0
+ORIGINAL-KEYWORD.Keyword2,
+ORIGINAL-KEYWORD.Keyword2.Cat3,20873,#808080
+ORIGINAL-KEYWORD.Keyword2.Cat4,8595,#80A0A0
+ORIGINAL-KEYWORD.Keyword3,
+ORIGINAL-KEYWORD.Keyword3.Cat2,25084,#808080
+ORIGINAL-KEYWORD.Keyword3.Cat3,4585,#80A0A0
+ORIGINAL-KEYWORD.Keyword4,
+ORIGINAL-KEYWORD.Keyword4.Cat4,21232,#808080
+ORIGINAL-KEYWORD.Keyword4.Cat5,8237,#80A0A0
